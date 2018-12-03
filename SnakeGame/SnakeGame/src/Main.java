@@ -1,9 +1,17 @@
+import javax.swing.JFrame;
 
 public class Main {
-	//zkouška naèítání
+	
+	public Main() {
+		
+		JFrame frame = new JFrame();
+		
+	}
+	
 	public static void main(String[] args) {
-		System.out.println("Nìco");
-		//Zaènìte nìco vytváøet
+	
+	     new Main();
+	     
 	}
 
 }
